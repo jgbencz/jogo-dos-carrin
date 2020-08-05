@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.jgbencz.jogodoscarrin
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>jogo dos carrin</name>
+
+  <description>
+      An example for phonegap build docs.
+  </description>
+   jogo das corrida kkkj 
+  <author href="https://build.phonegap.com" email="jgbencz@gmail.com">
+      jubileu
+  </author>
+                 <icon scr="icon.png" />
+</widget>
